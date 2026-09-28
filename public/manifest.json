@@ -3,9 +3,15 @@
   "short_name": "Amer Group",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#E30613",
-  "theme_color": "#E30613",
+  "background_color": "#EF0000",
+  "theme_color": "#EF0000",
   "icons": [
+    {
+      "src": "/amer-group-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
     {
       "src": "/icon-192.png",
       "sizes": "192x192",
